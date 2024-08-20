@@ -1,6 +1,6 @@
-# Project Name
+# TODO APP BY JHON
 
-A brief description of your project and what it does.
+Todo APP in Vuejs 3
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@ A brief description of your project and what it does.
 
 Make sure you have the following tools installed:
 
-- [Node.js](https://nodejs.org) (version >= X.X.X)
+- [Node.js](https://nodejs.org)
 - [npm](https://www.npmjs.com/get-npm)
 
 ## Installation
